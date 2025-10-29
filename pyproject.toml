@@ -1,0 +1,15 @@
+[project]
+name = "pbl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "apify-client>=2.1.0",
+    "mcp[cli]>=1.19.0",
+    "openai>=1.108.1",
+    "pandas>=2.3.2",
+    "pymupdf>=1.26.4",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.49.1",
+]

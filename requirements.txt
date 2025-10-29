@@ -1,0 +1,7 @@
+streamlit
+pandas
+pymupdf
+python-dotenv
+apify-client
+transformers
+torch
